@@ -1,4 +1,7 @@
-# im2latex tensorflow implementation
+# im2latex tensorflow implementat
+#docker,enjoy,good luck!!!
+docker pull aspnetcs88/dlp:latest-gpu-py3-im2latex-gpu-allinone-v1.0
+nvidia-docker run -it aspnetcs88/dlp:latest-gpu-py3-im2latex-gpu-allinone-v1.0
 
 This is a tensorflow implementation of the HarvardNLP paper - What You Get Is What You See: A Visual Markup Decompiler.
 
